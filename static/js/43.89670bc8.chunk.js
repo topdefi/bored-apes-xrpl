@@ -1,0 +1,1 @@
+(this["webpackJsonp@traderjoe-xyz/dex-interface"]=this["webpackJsonp@traderjoe-xyz/dex-interface"]||[]).push([[43],{1493:function(e,t,a){"use strict";a.r(t),a.d(t,"RedirectPathToHome",(function(){return i}));var n=a(37),r=a(0),c=a.n(r),o=a(62);function i(e){var t=e.location;return c.a.createElement(o.a,{to:Object(n.a)(Object(n.a)({},t),{},{pathname:"/home"})})}}}]);

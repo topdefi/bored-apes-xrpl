@@ -1,0 +1,1 @@
+(this["webpackJsonp@traderjoe-xyz/dex-interface"]=this["webpackJsonp@traderjoe-xyz/dex-interface"]||[]).push([[42],{1479:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return r}));var a=n(0),c=n(150);function r(e){var t=e.location,n=t.pathname,r=t.search;return Object(a.useEffect)((function(){c.a.pageview("".concat(n).concat(r))}),[n,r]),null}}}]);
